@@ -1,0 +1,6 @@
+export enum TipoCelda {
+  PASILLO = 'PASILLO',
+  ESTANTERIA = 'ESTANTERIA',
+  MUELLE = 'MUELLE',
+  BASE_CARGA = 'BASE_CARGA',
+}

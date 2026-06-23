@@ -1,0 +1,5 @@
+id_camion,tipo,muelle_id,tick_llegada
+C1,RECEPCION,M1,2
+C2,RECEPCION,M3,35
+C3,DESPACHO,M2,95
+C4,DESPACHO,M2,160

@@ -1,0 +1,5 @@
+export enum EstadoCamion {
+  ACOPLADO = 'ACOPLADO',
+  ORDENES_LIBERADAS = 'ORDENES_LIBERADAS',
+  RETIRADO = 'RETIRADO',
+}
